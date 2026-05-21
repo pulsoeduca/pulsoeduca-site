@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+:root {
+  --background: #f5efe8;
+  --foreground: #2b130d;
+  --orange: #ff6a00;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Nunito', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
