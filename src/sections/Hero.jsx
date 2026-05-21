@@ -48,9 +48,12 @@ export function Hero() {
   Quero um diagnóstico
 </a>
 
-            <button className="border border-[#d9cfc5] bg-white hover:bg-[#f7f2ed] transition-all text-[#2b130d] px-8 py-4 rounded-full font-bold">
-              Conhecer a jornada
-            </button>
+            <a
+  href="#jornada"
+  className="border border-[#d9cfc5] bg-white hover:bg-[#f7f2ed] transition-all text-[#2b130d] px-8 py-4 rounded-full font-bold"
+>
+  Conhecer a jornada
+</a>
           </div>
         </div>
 

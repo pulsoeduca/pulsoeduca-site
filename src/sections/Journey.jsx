@@ -40,7 +40,9 @@ export function Journey() {
   ]
 
   return (
-    <section className="bg-[#f5efe8] text-[#2b130d] py-24">
+    <section 
+     id="jornada"
+     className="bg-[#f5efe8] text-[#2b130d] py-24">
       <div className="max-w-7xl mx-auto px-6">
         <span className="text-[#ff6a00] uppercase tracking-[0.25em] text-sm font-extrabold">
           A jornada
