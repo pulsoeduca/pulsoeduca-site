@@ -3,7 +3,7 @@ import logoCompleto from "@/assets/logo-completo.png"
 export function Footer() {
   return (
     <footer
-      id="footer"
+       id="contato"
       className="bg-[#2b0d05] text-white py-28"
     >
       <div className="max-w-5xl mx-auto px-6 text-center">
