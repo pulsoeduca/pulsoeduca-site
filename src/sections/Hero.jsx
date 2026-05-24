@@ -35,7 +35,7 @@ export function Hero() {
 </motion.h1>
 
           <p className="mt-8 text-xl text-[#6f5b53] max-w-2xl leading-relaxed">
-            O Pulso Educa ajuda instituições de ensino a tornar a cultura escolar mais saudável e segura através de prevenção multidimensional baseada em dados.
+            O Pulso Educa realiza diagnóstico escolar e leitura estratégica da cultura e convivência escolar para apoiar escolas na prevenção precoce de riscos comportamentais e fortalecimento do ambiente educativo.
           </p>
 
           <div className="flex gap-4 mt-10">
