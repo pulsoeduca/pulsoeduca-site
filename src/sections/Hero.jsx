@@ -66,7 +66,7 @@ export function Hero() {
             animate={{ opacity: 1, scale: 1 }}
             transition={{ duration: 1 }}
             src={logomenino}
-            alt="Logo menino"
+            alt="Pulso Educa - diagnóstico escolar e prevenção na convivência escolar"
             className="relative w-72 lg:w-[420px] drop-shadow-2xl rounded-[40px]"
           />
           <div className="absolute bottom-0 right-8 bg-[#f7f4f1] rounded-[28px] px-6 py-3 shadow-[0_15px_40px_rgba(0,0,0,0.12)] max-w-[240px]">
